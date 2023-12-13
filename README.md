@@ -9,8 +9,3 @@ The application considers various points of interest, such as petrol pumps, CNG 
 Within a defined radius (denoted as R), at least one EV charger is mandated at petrol and CNG pumps, with the value of R determined through a statistical analysis model. The decision on which petrol pumps to equip with EV chargers is guided by statistical analysis and optimization, involving diverse parameters.
 
 Similarly, for other locations like parking lots, shopping complexes, etc., the same methodology is employed to prioritize the installation of EV chargers based on statistical analysis and optimization, ensuring an efficient and strategic placement.
-
-
-
-
-![NAME](https://user-images.githubusercontent.com/78752052/199076510-76e3400b-2dca-46b2-86ff-f5c5867593ab.png)
